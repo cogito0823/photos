@@ -1,3 +1,3 @@
 # photos
-图片库
-为个人的 markdown 建立的图片库
+Image Hosting
+为个人markdown建立的图床
